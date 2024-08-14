@@ -1,8 +1,8 @@
 body {
     color: pink;
-    background: rgb(6, 6, 6);
+    background: black;
 }
 
 header{
-    border: solid 2px rgb(253, 252, 252);
+    border: solid 2px white;
 }
